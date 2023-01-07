@@ -1,4 +1,4 @@
-package com.example.capstoneproject3.ui.theme
+package com.example.capstoneproject3.theme
 
 import android.app.Activity
 import android.os.Build
