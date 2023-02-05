@@ -2,7 +2,7 @@ package com.example.capstoneproject3.core
 
 object AppConstants {
     //App
-    const val TAG = "FireMagTag"
+    const val TAG = "FireMagTag"  //X
 
     //Currency
     const val US_DOLLAR = "$"

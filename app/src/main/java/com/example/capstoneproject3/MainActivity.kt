@@ -57,3 +57,5 @@ class MainActivity : ComponentActivity() {
     private fun navigateToHomeScreen() = navController.navigate(MainScreen.route)
 }
 
+
+//commit
